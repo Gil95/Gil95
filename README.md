@@ -4,7 +4,8 @@
 <li> 👀 I’m interested to learn about, practice and colaborate on projects in my area.</li>
 <li> 🌱 I’m currently learning Front-end Dev. (HTML, CSS and JS) </li>
 <li> 💞️ I’m looking to collaborate on ... </li>
-<li> 📫 How to reach me... </li>
+<li> 📫 How to reach me? visit my profile pages and choose your way to talk to me!</li>
+<li> 🌐 https://gil95.github.io/Meu-perfil/ </li>
 </ul>
 <!---
 Gil95/Gil95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
