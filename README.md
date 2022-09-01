@@ -1,5 +1,5 @@
 <h1>Welcome to my personal area</h1>
-<ul style="list-style-type: '\2714\00A0\00A0';">
+<ul type="circle">
 <li> 👋 Hi, I’m Gilson! </li>
 <li> 👀 I’m interested to learn about, practice and colaborate on projects in my area.</li>
 <li> 🌱 I’m currently learning Front-end Dev. (HTML, CSS and JS) </li>
