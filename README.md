@@ -3,7 +3,7 @@
 <li> 👋 Hi, I’m Gilson! </li>
 <li> 👀 I’m interested to learn about, practice and colaborate on projects in my area.</li>
 <li> 🌱 I’m currently learning Front-end Dev. (HTML, CSS and JS) </li>
-<li> 💞️ I’m looking to collaborate on ... </li>
+<!-- <li> 💞️ I’m looking to collaborate on ... </li> -->
 <li> 📫 How to reach me? visit my profile pages and choose your way to talk to me!</li>
 <li> 🌐 <a href="https://gil95.github.io/Meu-perfil/">My profile</a></li>
 </ul>
